@@ -120,7 +120,7 @@ Widget getSettings () {
 // ValueKeys are needed in the TextInputSettingsTile, because
 // we'll be changing which one(s) are showing when _optionSelected
 // changes.
-// For this teset, initialValues are hard coded, for production
+// For this test, initialValues are hard coded, for production
 // they should com from the corresponding settingKeys.
       if (_optionSelected == 0)
       setpkg.TextInputSettingsTile (
